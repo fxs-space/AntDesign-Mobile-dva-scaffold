@@ -1,3 +1,3 @@
-# AntDesign-Mobile-dva-scaffold
+## AntDesign-Mobile-dva-scaffold
 
-react、antd-mobile、dva
+##### react + dva + antd-mobile + axios + lodash + moment
